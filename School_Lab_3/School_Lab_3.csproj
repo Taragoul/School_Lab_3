@@ -23,5 +23,8 @@
 
 	<ItemGroup>
     <Folder Include="Repositories\" />
-  </ItemGroup>	
+  </ItemGroup>	<ItemGroup>
+		<Folder Include="Repositories\" />
+	<ItemGroup>
+    <Folder Include="Repositories\" />
   	</Project>
